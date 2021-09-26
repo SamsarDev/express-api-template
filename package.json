@@ -1,7 +1,7 @@
 {
   "name": "api-jwt-roles",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple rest API",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",
@@ -9,7 +9,7 @@
     "start": "node build/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "@SamsarDev",
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.15.7",
